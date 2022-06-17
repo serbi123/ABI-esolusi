@@ -4,3 +4,4 @@ RENCANA USAHA ABI
   * nike
   * converse
 - membuka warung kantin di kantor imigrasi
+- membuka warung franchise
