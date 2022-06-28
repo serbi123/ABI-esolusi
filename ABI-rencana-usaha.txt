@@ -7,6 +7,7 @@ RENCANA USAHA ABI
   * converse
     ^tas
 - membuka warung kantin di kantor imigrasi
-  ^buka warung minuman
+  ^ berbagai macam makanan dan minuman
 - membuka warung franchise
-  ^ayam goreng
+  ^ ayam goreng
+- membuat peternakan hewan kurban
