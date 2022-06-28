@@ -1,7 +1,12 @@
 RENCANA USAHA ABI
 - menjual produk dari beberapa brand ternama
   * adidas
+    ^ baju
   * nike
+    ^sepatu
   * converse
+    ^tas
 - membuka warung kantin di kantor imigrasi
+  ^buka warung minuman
 - membuka warung franchise
+  ^ayam goreng
